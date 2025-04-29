@@ -1,10 +1,14 @@
-# Kimzie's Bakery Website
+# Kimzie's Bakery Website 🍰
 
 Welcome to the official repository for **Kimzie's Bakery** – a colorful, responsive website showcasing our delicious baked goods, crafted with love and style!
 
 ## 👩‍🍳 Project Overview
 
 This is a practice project for **PLP Week 4: CSS Layouts and Responsive Design**. The goal was to create a **fully responsive** and **visually appealing** bakery website using **modern CSS techniques** such as **Flexbox**, **CSS Grid**, and **Media Queries**.
+
+## 🌐 Live Preview
+
+[Click here to view the live site](https://kimaka254.github.io/plp_week4_web_assignment/)
 
 ## 🎯 Objectives
 
@@ -30,7 +34,7 @@ This is a practice project for **PLP Week 4: CSS Layouts and Responsive Design**
 
 ## 👤 Author
 
-- **Elsy Kimaka** – Web Developer & Designer 
+- **Elsy Kimaka** – Developer  
 
 
 ## 📸 Credits for Images
